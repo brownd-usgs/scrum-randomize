@@ -1,15 +1,15 @@
 var teams = {
-  'Maintenance &amp; Response': {
+  'Internet of Water': {
     'first': [],
     'randomized': [
-      'Ans',
-      'Betsy',
-      'Craig',
-      'Harry',
-      'Nicholas',
-      'Scott',
-      'Sophie',
-      'Jess/Will'
+      'Jim',
+      'Andrew',
+      'Mary',
+      'Dave U',
+      'Janell',
+      'Eric',
+      'Dave S',
+      'Alice'
     ],
     'last': []
   }
