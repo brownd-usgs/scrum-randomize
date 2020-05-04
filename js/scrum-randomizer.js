@@ -12,7 +12,6 @@ var teams = {
       'Ed',
       'Eric',
       'Janell',
-      'Jeff',
       'Shawn',
       'Candice',
       'Candy',
