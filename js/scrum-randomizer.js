@@ -7,7 +7,6 @@ var teams = {
       'Greg',
       'Mary',
       'Sam',
-      'Dave S.',
       'Dave U.',
       'Ed',
       'Eric',
