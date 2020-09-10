@@ -14,7 +14,7 @@ var teams = {
       'Candice',
       'Candy',
       'Jim',
-      'Shawna',
+      'Daniel',
       'Mike'
     ],
     'last': []
