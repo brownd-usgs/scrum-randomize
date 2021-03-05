@@ -2,7 +2,6 @@ var teams = {
   'Internet of Water': {
     'first': ['Don'],
     'randomized': [
-      'Alice',
       'Andrew',
       'Sam',
       'Dave',
